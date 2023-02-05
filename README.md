@@ -16,7 +16,7 @@ This is a test suite for benchmarking various Go serialization methods.
 - [github.com/vmihailenco/msgpack/v4](https://github.com/vmihailenco/msgpack)
 - [labix.org/v2/mgo/bson](https://labix.org/v2/mgo/bson)
 - [github.com/tinylib/msgp](https://github.com/tinylib/msgp) *(code generator for msgpack)*
-- [github.com/golang/protobuf](https://github.com/golang/protobuf) (generated code)
+- [google.golang.org/protobuf](https://google.golang.org/protobuf) (generated code)
 - [github.com/gogo/protobuf](https://github.com/gogo/protobuf) (generated code, optimized version of `goprotobuf`)
 - [go.dedis.ch/protobuf](https://go.dedis.ch/protobuf) (reflection based)
 - [github.com/google/flatbuffers](https://github.com/google/flatbuffers)
